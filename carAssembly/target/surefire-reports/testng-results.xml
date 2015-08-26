@@ -1,39 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="7" passed="7">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="SuiteAll" duration-ms="64" started-at="2015-08-26T06:11:41Z" finished-at="2015-08-26T06:11:41Z">
+  <suite name="SuiteAll" duration-ms="22" started-at="2015-08-26T10:04:27Z" finished-at="2015-08-26T10:04:27Z">
     <groups>
     </groups>
-    <test name="demo1" duration-ms="64" started-at="2015-08-26T06:11:41Z" finished-at="2015-08-26T06:11:41Z">
-      <class name="com.companyname.automobile.UtilTest">
-        <test-method status="PASS" signature="Test2()[pri:0, instance:com.companyname.automobile.UtilTest@80ec60]" name="Test2" duration-ms="0" started-at="2015-08-26T11:41:41Z" finished-at="2015-08-26T11:41:41Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test2 -->
-        <test-method status="PASS" signature="Test3()[pri:0, instance:com.companyname.automobile.UtilTest@80ec60]" name="Test3" duration-ms="1" started-at="2015-08-26T11:41:41Z" finished-at="2015-08-26T11:41:41Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test3 -->
-        <test-method status="PASS" signature="Test()[pri:0, instance:com.companyname.automobile.UtilTest@80ec60]" name="Test" duration-ms="0" started-at="2015-08-26T11:41:41Z" finished-at="2015-08-26T11:41:41Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test -->
-        <test-method status="PASS" signature="Test4()[pri:0, instance:com.companyname.automobile.UtilTest@80ec60]" name="Test4" duration-ms="0" started-at="2015-08-26T11:41:41Z" finished-at="2015-08-26T11:41:41Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Test4 -->
-        <test-method status="PASS" signature="TestUtil()[pri:0, instance:com.companyname.automobile.UtilTest@80ec60]" name="TestUtil" duration-ms="0" started-at="2015-08-26T11:41:41Z" finished-at="2015-08-26T11:41:41Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TestUtil -->
-      </class> <!-- com.companyname.automobile.UtilTest -->
+    <test name="demo1" duration-ms="22" started-at="2015-08-26T10:04:27Z" finished-at="2015-08-26T10:04:27Z">
       <class name="com.companyname.automobile.AppTest">
-        <test-method status="PASS" signature="Test()[pri:0, instance:com.companyname.automobile.AppTest@75222b]" name="Test" duration-ms="7" started-at="2015-08-26T11:41:41Z" finished-at="2015-08-26T11:41:41Z">
+        <test-method status="PASS" signature="Test()[pri:0, instance:com.companyname.automobile.AppTest@16216b3]" name="Test" duration-ms="7" started-at="2015-08-26T15:34:27Z" finished-at="2015-08-26T15:34:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test -->
-        <test-method status="PASS" signature="TestUtil()[pri:0, instance:com.companyname.automobile.AppTest@75222b]" name="TestUtil" duration-ms="36" started-at="2015-08-26T11:41:41Z" finished-at="2015-08-26T11:41:41Z">
+        <test-method status="PASS" signature="TestUtil()[pri:0, instance:com.companyname.automobile.AppTest@16216b3]" name="TestUtil" duration-ms="4" started-at="2015-08-26T15:34:27Z" finished-at="2015-08-26T15:34:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestUtil -->
