@@ -5,5 +5,8 @@
 			<class name="com.companyname.automobile.AppTest"/>
 			<class name="com.companyname.automobile.UtilTest"/>
 		</classes> 
+		<packages>
+      		<package name="com.companyname.ui" />
+   		</packages>
     </test>  
 </suite>
