@@ -4,6 +4,7 @@
 		<classes>
 			<class name="com.companyname.automobile.AppTest"/>
 			
+			
 		</classes> 
     </test>  
 </suite>
